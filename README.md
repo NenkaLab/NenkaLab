@@ -1,6 +1,6 @@
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NenkaLab&show_icons=true&title_color=FAAFEF&icon_color=FF55EE&text_color=CCC&bg_color=323232)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NenkaLab&show_icons=true&title_color=FAEA88&icon_color=A9FF3F&text_color=CCC&bg_color=323232)
 
 ## 기술
 
