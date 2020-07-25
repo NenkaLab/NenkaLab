@@ -10,9 +10,9 @@
 ![Kotlin](https://img.shields.io/badge/-Kotlin-f2850b?style=for-the-badge&logo=kotlin&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=fff)
 
-![Html](https://img.shields.io/badge/-html-ff5522?style=for-the-badge&logo=html&logoColor=fff)
+![Html](https://img.shields.io/badge/-html-ff5522?style=for-the-badge&logo=html5&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
-![JavaScript](https://img.shields.io/badge/-css-0095d5?style=for-the-badge&logo=css&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/-css-0095d5?style=for-the-badge&logo=css3&logoColor=fff)
 
 ## 소개
 
