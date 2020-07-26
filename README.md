@@ -20,6 +20,7 @@
 
 ### SNS
 [Naver Blog](https://blog.naver.com/nenka), [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab)
+Discord : Nenka Lab#9485
 
 ### 많이 사용된 언어
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=NenkaLab&show_icons=true&title_color=EEE&icon_color=FF55EE&text_color=CCC&bg_color=323232)
