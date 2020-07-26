@@ -19,7 +19,7 @@
 웹은 간단히 만들 정도만 할 수 있습니다.
 
 ### SNS
-[Naver Blog](https://blog.naver.com/nenka), [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab)
+[Naver Blog](https://blog.naver.com/nenka), [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab) <br>
 Discord : Nenka Lab#9485
 
 ### 많이 사용된 언어
