@@ -21,5 +21,5 @@
 ### SNS
 [Naver Blog](https://blog.naver.com/nenka), [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab)
 
-### 자주 사용하는 언어
+### 많이 사용된 
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=NenkaLab&show_icons=true&title_color=EEE&icon_color=FF55EE&text_color=CCC&bg_color=323232)
