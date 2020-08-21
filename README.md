@@ -2,6 +2,8 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NenkaLab&show_icons=true&title_color=FAEA88&icon_color=A9FF3F&text_color=CCC&bg_color=323232)
 
+[English](README_EN.md)
+
 ## 기술
 
 ### 언어
