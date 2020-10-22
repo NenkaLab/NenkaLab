@@ -1,6 +1,6 @@
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NenkaLab&show_icons=true&title_color=a750ba&icon_color=bf1111&text_color=434343&bg_color=00000000&hide_border=1&cache_seconds=1800&include_all_commits=1&count_private=1)
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NenkaLab&show_icons=true&title_color=FAEA88&icon_color=A9FF3F&text_color=CCC&bg_color=323232)
+![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=NenkaLab&show_icons=true&title_color=a750ba&icon_color=bf1111&text_color=434343&bg_color=00000000&hide_border=1&cache_seconds=1800&layout=compact)
 
 ## Skills
 
@@ -21,8 +21,3 @@ The web can only be done simply.
 ### SNS
 [Naver Blog](https://blog.naver.com/nenka), [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab) <br>
 Discord : Nenka Lab#9485
-
-<!--
-### Most spoken language
-![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=NenkaLab&show_icons=true&title_color=EEE&icon_color=FF55EE&text_color=CCC&bg_color=323232)
--->
