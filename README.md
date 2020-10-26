@@ -15,11 +15,6 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-css-0095d5?style=for-the-badge&logo=css3&logoColor=fff)
 
-## 소개
-
-안드로이드를 자주 하고 웹을 가끔씩 합니다.<br>
-웹은 간단히 만들 정도만 할 수 있습니다.
-
 ### SNS
-[Naver Blog](https://blog.naver.com/nenka), [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab) <br>
+~~[Naver Blog](#)~~, [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab) <br>
 Discord : Nenka Lab#9485
