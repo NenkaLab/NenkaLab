@@ -2,8 +2,6 @@
 
 ![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=NenkaLab&show_icons=true&title_color=a750ba&icon_color=bf1111&text_color=434343&bg_color=00000000&hide_border=1&cache_seconds=1800&layout=compact)
 
-[English](https://github.com/NenkaLab/NenkaLab/blob/master/README_EN.md)
-
 ## 기술
 
 ### 언어
