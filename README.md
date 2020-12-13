@@ -1,6 +1,6 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NenkaLab&show_icons=true&title_color=a750ba&icon_color=bf1111&text_color=434343&bg_color=00000000&hide_border=1&cache_seconds=1800&include_all_commits=1&count_private=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NenkaLab&show_icons=true&title_color=a750ba&icon_color=bf1111&text_color=a4a4a4&bg_color=00000000&hide_border=1&cache_seconds=1800&include_all_commits=1&count_private=1)
 
-![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=NenkaLab&show_icons=true&title_color=a750ba&icon_color=bf1111&text_color=434343&bg_color=00000000&hide_border=1&cache_seconds=1800&layout=compact)
+![TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=NenkaLab&show_icons=true&title_color=a750ba&icon_color=bf1111&text_color=a4a4a4&bg_color=00000000&hide_border=1&cache_seconds=1800&layout=compact)
 
 ![Android](https://img.shields.io/badge/-Android-00c717?style=for-the-badge&logo=android&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-f2850b?style=for-the-badge&logo=kotlin&logoColor=fff)
