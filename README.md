@@ -10,4 +10,4 @@
 ![JavaScript](https://img.shields.io/badge/-css-0095d5?style=for-the-badge&logo=css3&logoColor=fff)
 
 ~~[Naver Blog](#)~~, [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/nenka_lab) <br>
-Discord : Nenka Lab#9485
+Discord : Nenka Lab#1111
