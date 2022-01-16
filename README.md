@@ -10,4 +10,4 @@
 ![JavaScript](https://img.shields.io/badge/-css-0095d5?style=for-the-badge&logo=css3&logoColor=fff)
 
 ~~[Naver Blog](#)~~, [Telegram](https://t.me/ko_kororo), [Steam](https://steamcommunity.com/id/horo0503/) <br>
-Discord : KOKororo#1111
+Discord : KOKOroro#1111
