@@ -9,5 +9,5 @@
 ![JavaScript](https://img.shields.io/badge/-javascript-c2ad07?style=for-the-badge&logo=javascript&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-css-0095d5?style=for-the-badge&logo=css3&logoColor=fff)
 
-~~[Naver Blog](#)~~, [Telegram](https://t.me/ko_kororo), [Steam](https://steamcommunity.com/id/horo0503/) <br>
-Discord : KOKOroro#1111
+~~[Naver Blog](#)~~, [Telegram](https://t.me/nenka_lab), [Steam](https://steamcommunity.com/id/horo0503/) <br>
+Discord : nenka.lab#1111
